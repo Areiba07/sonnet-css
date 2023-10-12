@@ -1,0 +1,46 @@
+#wrap {
+    height: auto;
+    width: 80%;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dashed black;
+    background: peachpuff;
+
+}
+
+.line {
+    border: dashed;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+    background-color: rgb(190, 107, 52);
+}
+
+.p1 {
+    text-align: justify;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    margin:0%
+}
+
+ul {
+    list-style: none;
+  }
+  
+li::first-letter {
+    font-weight: bold;
+  }
+
+li {
+    font-style: italic;
+}
+
+.copyright {
+    font-size: 12px;
+}
